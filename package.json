@@ -62,14 +62,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danny-avila/LibreChat.git"
+    "url": "git+https://github.com/FreedomIntelligence/Apollo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danny-avila/LibreChat/issues"
+    "url": "https://github.com/FreedomIntelligence/Apollo/issues"
   },
-  "homepage": "https://librechat.ai/",
+  "homepage": "https://github.com/FreedomIntelligence/Apollo",
   "devDependencies": {
     "@playwright/test": "^1.38.1",
     "@typescript-eslint/eslint-plugin": "^5.62.0",

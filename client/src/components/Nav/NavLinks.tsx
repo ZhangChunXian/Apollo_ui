@@ -102,7 +102,9 @@ function NavLinks() {
                     <NavLink
                       svg={() => <LinkIcon />}
                       text={localize('com_nav_help_faq')}
-                      clickHandler={() => window.open(startupConfig?.helpAndFaqURL, '_blank')}
+                      clickHandler={() =>
+                        window.open('https://github.com/FreedomIntelligence/Apollo', '_blank')
+                      }
                     />
                   </Menu.Item>
                 )}
