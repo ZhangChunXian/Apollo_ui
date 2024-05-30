@@ -424,7 +424,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: 등록하기
 
 - **com_auth_welcome_back**:
-  - **english**: Welcome back
+  - **english**: Welcome to Apollo
   - **translated**: 다시 오신 것을 환영합니다
 
 - **com_endpoint_open_menu**:

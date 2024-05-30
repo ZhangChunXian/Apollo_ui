@@ -791,7 +791,7 @@ export const comparisons = {
     translated: 'Registratie indienen',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: 'Welkom terug',
   },
   com_endpoint_open_menu: {

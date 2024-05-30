@@ -592,7 +592,7 @@ export const comparisons = {
     translated: 'Zarejestruj się',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: 'Witamy z powrotem',
   },
   com_endpoint_open_menu: {

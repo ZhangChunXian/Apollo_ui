@@ -1047,7 +1047,7 @@ export const comparisons = {
     translated: 'إرسال التسجيل',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: 'مرحبا بك مرة أخرى',
   },
   com_endpoint_open_menu: {
@@ -2480,7 +2480,7 @@ export const comparisons = {
     translated: 'يرجى اختيار مساعد',
   },
   com_nav_welcome_message: {
-    english: 'Apollo, a Multilingual Medical LLMs',
+    english: 'Apollo, Multilingual Medical LLMs',
     translated: 'كيف يمكنني مساعدتك اليوم؟',
   },
   com_nav_hide_panel: {

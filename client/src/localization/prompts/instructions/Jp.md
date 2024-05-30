@@ -820,7 +820,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: 登録をする
 
 - **com_auth_welcome_back**:
-  - **english**: Welcome back
+  - **english**: Welcome to Apollo
   - **translated**: おかえりなさい
 
 - **com_auth_back_to_login**:
@@ -1364,8 +1364,8 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: 必ず「作成して続行」をクリックして、少なくとも「Vertex AI ユーザー」権限を与えてください。最後にここにインポートするJSONキーを作成してください。
 
 - **com_nav_welcome_message**:
-  - **english**: Apollo, a Multilingual Medical LLMs
-  - **translated**: Apollo, a Multilingual Medical LLMs
+  - **english**: Apollo, Multilingual Medical LLMs
+  - **translated**: Apollo, Multilingual Medical LLMs
 
 - **com_nav_auto_scroll**:
   - **english**: Auto-scroll to Newest on Open

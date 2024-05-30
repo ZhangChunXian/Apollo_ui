@@ -1022,7 +1022,7 @@ export const comparisons = {
     translated: '送出',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: '歡迎回來',
   },
   com_endpoint_open_menu: {
@@ -2449,7 +2449,7 @@ export const comparisons = {
     translated: '請選擇一位助理',
   },
   com_nav_welcome_message: {
-    english: 'Apollo, a Multilingual Medical LLMs',
+    english: 'Apollo, Multilingual Medical LLMs',
     translated: '您今天有什麼需要我協助的嗎？',
   },
   com_nav_hide_panel: {

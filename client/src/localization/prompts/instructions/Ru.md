@@ -488,7 +488,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: Отправить регистрацию
 
 - **com_auth_welcome_back**:
-  - **english**: Welcome back
+  - **english**: Welcome to Apollo
   - **translated**: Добро пожаловать
 
 - **com_auth_back_to_login**:
@@ -972,7 +972,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: Убедитесь что нажали на 'Create and Continue' чтобы получить как минимум 'Vertex AI User'. Наконец, создайте JSON-ключ чтобы импортировать его сюда.
 
 - **com_nav_welcome_message**:
-  - **english**: Apollo, a Multilingual Medical LLMs
+  - **english**: Apollo, Multilingual Medical LLMs
   - **translated**: Чем я могу помочь вам сегодня?
 
 - **com_nav_auto_scroll**:

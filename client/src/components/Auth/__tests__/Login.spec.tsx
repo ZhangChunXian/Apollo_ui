@@ -77,7 +77,7 @@ const setup = ({
       isFetching={useGetStartupCongfigReturnValue.isFetching}
       error={null}
       startupConfigError={null}
-      header={'Welcome back'}
+      header={'Welcome to Apollo'}
       pathname="login"
     >
       <Login />

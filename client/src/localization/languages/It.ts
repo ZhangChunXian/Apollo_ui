@@ -1572,7 +1572,7 @@ export const comparisons = {
     translated: 'Invia registrazione',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: 'Ben tornato',
   },
   com_auth_back_to_login: {
@@ -2181,7 +2181,7 @@ export const comparisons = {
     translated: 'Seleziona un Assistente',
   },
   com_nav_welcome_message: {
-    english: 'Apollo, a Multilingual Medical LLMs',
+    english: 'Apollo, Multilingual Medical LLMs',
     translated: 'Come posso aiutarti oggi?',
   },
   com_nav_auto_scroll: {

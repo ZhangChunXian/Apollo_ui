@@ -436,7 +436,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: Gửi đăng ký
 
 - **com_auth_welcome_back**:
-  - **english**: Welcome back
+  - **english**: Welcome to Apollo
   - **translated**: Chào mừng trở lại
 
 - **com_endpoint_open_menu**:

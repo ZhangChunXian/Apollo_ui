@@ -302,7 +302,7 @@ export default {
   com_auth_click_here: 'Click here',
   com_auth_to_try_again: 'to try again.',
   com_auth_submit_registration: 'Submit registration',
-  com_auth_welcome_back: 'Welcome back',
+  com_auth_welcome_back: 'Welcome to Apollo',
   com_auth_back_to_login: 'Back to Login',
   com_endpoint_open_menu: 'Open Menu',
   com_endpoint_bing_enable_sydney: 'Enable Sydney',
@@ -475,7 +475,7 @@ export default {
   com_endpoint_config_key_google_vertex_api_role:
     'Make sure to click \'Create and Continue\' to give at least the \'Vertex AI User\' role. Lastly, create a JSON key to import here.',
   com_nav_welcome_assistant: 'Please Select an Assistant',
-  com_nav_welcome_message: 'Apollo, a Multilingual Medical LLMs',
+  com_nav_welcome_message: 'Apollo, Multilingual Medical LLMs',
   com_nav_auto_scroll: 'Auto-Scroll to latest message on chat open',
   com_nav_hide_panel: 'Hide right-most side panel',
   com_nav_modular_chat: 'Enable switching Endpoints mid-conversation',

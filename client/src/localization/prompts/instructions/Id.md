@@ -472,7 +472,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: Kirim pendaftaran
 
 - **com_auth_welcome_back**:
-  - **english**: Welcome back
+  - **english**: Welcome to Apollo
   - **translated**: Selamat datang kembali
 
 - **com_endpoint_open_menu**:
@@ -968,7 +968,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: Pastikan untuk mengklik 'Buat dan Lanjutkan' untuk memberikan setidaknya peran 'Pengguna Vertex AI'. Terakhir, buat kunci JSON untuk diimpor di sini.
 
 - **com_nav_welcome_message**:
-  - **english**: Apollo, a Multilingual Medical LLMs
+  - **english**: Apollo, Multilingual Medical LLMs
   - **translated**: Bagaimana saya bisa membantu Anda hari ini?
 
 - **com_nav_auto_scroll**:

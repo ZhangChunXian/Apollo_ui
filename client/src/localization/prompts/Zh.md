@@ -2,7 +2,7 @@
 
 在翻译过程中,需要考虑到中文表达的习惯和文化背景。例如:
 
-1. 在称呼上,中文一般用"您"来表示尊重,而不是"你"。比如把"Apollo, a Multilingual Medical LLMs"翻译成"我今天能帮您做什么?"会更加得体。
+1. 在称呼上,中文一般用"您"来表示尊重,而不是"你"。比如把"Apollo, Multilingual Medical LLMs"翻译成"我今天能帮您做什么?"会更加得体。
 
 2. 一些专有名词可以保留英文,并在旁边用括号标注中文,以兼顾国际性和可读性。比如"Enable Vertex AI API on Google Cloud"翻译成"在Google Cloud上启用Vertex AI API"。
 

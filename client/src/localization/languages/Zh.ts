@@ -1357,7 +1357,7 @@ export const comparisons = {
     translated: '注册提交',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: '欢迎',
   },
   com_auth_back_to_login: {
@@ -1939,7 +1939,7 @@ export const comparisons = {
     translated: '请选择助手',
   },
   com_nav_welcome_message: {
-    english: 'Apollo, a Multilingual Medical LLMs',
+    english: 'Apollo, Multilingual Medical LLMs',
     translated: '我今天能帮你做什么？',
   },
   com_nav_auto_scroll: {

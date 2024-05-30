@@ -1025,7 +1025,7 @@ export const comparisons = {
     translated: 'שלח רישום',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: 'ברוכים הבאים',
   },
   com_auth_back_to_login: {
@@ -1590,7 +1590,7 @@ export const comparisons = {
       'הקפד ללחוץ על \'צור והמשך\' כדי לתת לפחות את התפקיד \'Vertex AI User\'. לבסוף, צור מפתח JSON לייבא לכאן.',
   },
   com_nav_welcome_message: {
-    english: 'Apollo, a Multilingual Medical LLMs',
+    english: 'Apollo, Multilingual Medical LLMs',
     translated: 'איך אני יכול לעזור לך היום?',
   },
   com_nav_auto_scroll: {

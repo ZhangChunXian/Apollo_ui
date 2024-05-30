@@ -1026,7 +1026,7 @@ export const comparisons = {
     translated: '등록하기',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: '다시 오신 것을 환영합니다',
   },
   com_endpoint_open_menu: {
@@ -2472,7 +2472,7 @@ export const comparisons = {
     translated: '어시스턴트 선택하기',
   },
   com_nav_welcome_message: {
-    english: 'Apollo, a Multilingual Medical LLMs',
+    english: 'Apollo, Multilingual Medical LLMs',
     translated: '오늘 무엇을 도와드릴까요?',
   },
   com_nav_auto_scroll: {

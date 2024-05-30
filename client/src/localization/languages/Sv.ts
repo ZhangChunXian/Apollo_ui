@@ -763,7 +763,7 @@ export const comparisons = {
     translated: 'Skicka registrering',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
+    english: 'Welcome to Apollo',
     translated: 'Välkommen tillbaka',
   },
   com_endpoint_open_menu: {

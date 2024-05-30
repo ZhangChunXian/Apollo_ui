@@ -278,7 +278,7 @@
           "update_time": null,
           "content": {
             "content_type": "text",
-            "parts": ["Hey! Welcome back. What's on your mind?"]
+            "parts": ["Hey! Welcome to Apollo. What's on your mind?"]
           },
           "status": "finished_successfully",
           "end_turn": true,

@@ -38,10 +38,23 @@ export default function Footer({ className }: { className?: string }) {
         config.customFooter
       ) : (
         <>
-          <a href="https://librechat.ai" target="_blank" rel="noreferrer" className="underline">
-            {config?.appTitle || 'LibreChat'} {Constants.VERSION}
+          <a
+            href="https://github.com/FreedomIntelligence/Apollo?tab=Apache-2.0-1-ov-file"
+            target="_blank"
+            rel="noreferrer"
+            className="underline"
+          >
+            Apollo, Multilingual Medical LLMs
           </a>
-          {' - '} {localize('com_ui_new_footer')}
+          {' - '} This Chat UI is based on{' '}
+          <a
+            href="https://www.librechat.ai/"
+            target="_blank"
+            rel="noreferrer"
+            className="underline"
+          >
+            Librechat
+          </a>
         </>
       )}
     </span>

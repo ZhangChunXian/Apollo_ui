@@ -440,7 +440,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: 送出
 
 - **com_auth_welcome_back**:
-  - **english**: Welcome back
+  - **english**: Welcome to Apollo
   - **translated**: 歡迎回來
 
 - **com_endpoint_open_menu**:
