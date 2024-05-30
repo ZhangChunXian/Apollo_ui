@@ -2449,7 +2449,7 @@ export const comparisons = {
     translated: '請選擇一位助理',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Apollo, a Multilingual Medical LLMs',
     translated: '您今天有什麼需要我協助的嗎？',
   },
   com_nav_hide_panel: {

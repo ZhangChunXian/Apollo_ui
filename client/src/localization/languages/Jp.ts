@@ -400,7 +400,7 @@ export default {
   com_endpoint_config_key_google_service_account: 'サービスアカウントを作成する',
   com_endpoint_config_key_google_vertex_api_role:
     '必ず「作成して続行」をクリックして、少なくとも「Vertex AI ユーザー」権限を与えてください。最後にここにインポートするJSONキーを作成してください。',
-  com_nav_welcome_message: 'How can I help you today?',
+  com_nav_welcome_message: 'Apollo, a Multilingual Medical LLMs',
   com_nav_auto_scroll: 'チャットを開いたときに最新まで自動でスクロール',
   com_nav_hide_panel: '右側のパネルを非表示',
   com_nav_modular_chat: '会話の途中でのエンドポイント切替を有効化',
@@ -2035,8 +2035,8 @@ export const comparisons = {
       '必ず「作成して続行」をクリックして、少なくとも「Vertex AI ユーザー」権限を与えてください。最後にここにインポートするJSONキーを作成してください。',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
-    translated: 'How can I help you today?',
+    english: 'Apollo, a Multilingual Medical LLMs',
+    translated: 'Apollo, a Multilingual Medical LLMs',
   },
   com_nav_auto_scroll: {
     english: 'Auto-Scroll to latest message on chat open',

@@ -60,15 +60,15 @@ const MessageEndpointIcon: React.FC<IconProps> = (props) => {
     [EModelEndpoint.assistants]: assistantsIcon,
     [EModelEndpoint.azureAssistants]: assistantsIcon,
     [EModelEndpoint.azureOpenAI]: {
-      icon: <AzureMinimalIcon size={size * 0.5555555555555556} />,
+      icon: <AzureMinimalIcon size={size * 0.8} />,
       bg: 'linear-gradient(0.375turn, #61bde2, #4389d0)',
-      name: 'ChatGPT',
+      name: 'Apollo',
     },
     [EModelEndpoint.openAI]: {
       icon: <GPTIcon size={size * 0.5555555555555556} />,
       bg:
-        typeof model === 'string' && model.toLowerCase().includes('gpt-4') ? '#AB68FF' : '#19C37D',
-      name: 'ChatGPT',
+        typeof model === 'string' && model.toLowerCase().includes('gpt-4') ? '#f7f7f8' : '#f7f7f8',
+      name: 'Apollo',
     },
     [EModelEndpoint.gptPlugins]: {
       icon: <Plugin size={size * 0.7} />,

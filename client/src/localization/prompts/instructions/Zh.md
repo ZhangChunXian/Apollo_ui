@@ -1320,7 +1320,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: 请选择助手
 
 - **com_nav_welcome_message**:
-  - **english**: How can I help you today?
+  - **english**: Apollo, a Multilingual Medical LLMs
   - **translated**: 我今天能帮你做什么？
 
 - **com_nav_auto_scroll**:

@@ -1420,7 +1420,7 @@ export const comparisons = {
       'Pastikan untuk mengklik \'Buat dan Lanjutkan\' untuk memberikan setidaknya peran \'Pengguna Vertex AI\'. Terakhir, buat kunci JSON untuk diimpor di sini.',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Apollo, a Multilingual Medical LLMs',
     translated: 'Bagaimana saya bisa membantu Anda hari ini?',
   },
   com_nav_auto_scroll: {

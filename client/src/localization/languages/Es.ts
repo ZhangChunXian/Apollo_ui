@@ -2013,7 +2013,7 @@ export const comparisons = {
     translated: 'Por favor, selecciona un asistente',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Apollo, a Multilingual Medical LLMs',
     translated: '¿En qué puedo ayudarte hoy?',
   },
   com_nav_auto_scroll: {

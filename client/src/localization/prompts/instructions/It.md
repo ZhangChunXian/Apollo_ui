@@ -1472,7 +1472,7 @@ Write a prompt that is mindful of the nuances in the language with respect to it
   - **translated**: Seleziona un Assistente
 
 - **com_nav_welcome_message**:
-  - **english**: How can I help you today?
+  - **english**: Apollo, a Multilingual Medical LLMs
   - **translated**: Come posso aiutarti oggi?
 
 - **com_nav_auto_scroll**:

@@ -2181,7 +2181,7 @@ export const comparisons = {
     translated: 'Seleziona un Assistente',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Apollo, a Multilingual Medical LLMs',
     translated: 'Come posso aiutarti oggi?',
   },
   com_nav_auto_scroll: {

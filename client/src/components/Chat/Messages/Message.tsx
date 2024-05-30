@@ -45,7 +45,7 @@ export default function Message(props: TMessageProps) {
   if (isCreatedByUser) {
     messageLabel = UsernameDisplay ? user?.name || user?.username : localize('com_user_message');
   } else {
-    messageLabel = message.sender;
+    messageLabel = 'Apollo';
   }
 
   return (
